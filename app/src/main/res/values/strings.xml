@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ERT Trainer</string>
+    <string name="welcome">Welcome to ERT Trainer</string>
+    <string name="warning">Make sure your device is connected to an internet network</string>
+</resources>
